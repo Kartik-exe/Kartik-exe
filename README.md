@@ -1,16 +1,17 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGAlSh8849iMA/profile-displaybackgroundimage-shrink_350_1400/0/1697537073369?e=1703116800&v=beta&t=HRlKq8c1eDVS0oUVji7az-s7ADYIU0rRvqxMK63pD1E)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kartik Nigam
-====================================================================================================================================
+Hi👋
+=============================
 
 Welcome to my GitHub profile!
 -----------------------------
 
 I'm a passionate front-end developer and UI/UX expert, with a strong commitment to creating user-friendly and visually appealing web applications. I'm constantly learning and growing, with a particular focus on mastering popular front-end technologies such as React, Vue.js, GSAP, three.js and many more.
 
-* 🌍  I'm based in India
+* 🖥️ I specialize in front-end web development
+* 🎨 UI/UX is my passion, and I believe in the power of great design
 * ✉️  You can contact me at [kartik.nigam1712@gmail.com](mailto:kartik.nigam1712@gmail.com)
 * 🧠  I'm learning React, Vue.js, GSAP, Three.js and other exciting technologies
-* ⚡  I believe in the power of great design
+* 📚 Continuous learning and staying up-to-date with industry trends is my mantra
 
 <a href="https://www.github.com/Kartik-exe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kartik-exe?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
