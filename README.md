@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGAlSh8849iMA/profile-displaybackgroundimage-shrink_350_1400/0/1697537073369?e=1703116800&v=beta&t=HRlKq8c1eDVS0oUVji7az-s7ADYIU0rRvqxMK63pD1E)
-
 <h1 align="center">Hey 👋, I'm Kartik Nigam</h1>
 <h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Designer | ⚡ Creative Technologist</h3>
 
