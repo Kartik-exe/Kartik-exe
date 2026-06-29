@@ -1,7 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGAlSh8849iMA/profile-displaybackgroundimage-shrink_350_1400/0/1697537073369?e=1703116800&v=beta&t=HRlKq8c1eDVS0oUVji7az-s7ADYIU0rRvqxMK63pD1E)
 Hi👋
 =============================
-
 Welcome to my GitHub profile!
 -----------------------------
 
